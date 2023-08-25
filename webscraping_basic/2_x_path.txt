@@ -1,0 +1,27 @@
+/school/grade/class/student[2]
+//*[@number="1-1-5]
+
+
+/html/body/div[3]/div[1]/div/div[1]/div[1]/div/form/fieldset/div[1]
+//*[@id="nx_search_form"]/fieldset/div[1]
+
+/html/body/div[1]/div[1]/div/div/div/div[1]/div/div[1]/a
+//*[@id="gb"]/div/div[1]/div/div[1]/a
+
+<school name+"shschool"
+    <grade value="1">
+        <class value="1">
+            <student value="1" number="1-1-1">seolhee</student>
+            <student value="2" number="1-1-2">teri</student>
+            <student value="3" number="1-1-3">tera</student>
+            <student value="4" number="1-1-4">kevin</student>
+            <student value="5" number="1-1-5">seolhee</student>
+        </class>
+        <class value="2"/>
+        <class value="3"/>
+        <class value="4"/>
+    </grade>
+    <grade value="2"/>
+    <grade value="3"/>
+</school>
+
